@@ -1,7 +1,6 @@
 # Plover Retro Quotes
 
-Add single or double quotes to your previous words after you've already written
-them.
+Add single or double quotes to your words after you've already written them.
 
 ## Usage
 
